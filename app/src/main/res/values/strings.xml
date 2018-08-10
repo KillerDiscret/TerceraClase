@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nuevo</string>
+    <string name="variable">Ingrese un número</string>
+</resources>
